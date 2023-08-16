@@ -23,7 +23,7 @@ Welcome to my Flutter and Dart learning journey! This README serves as a log to 
 Getting started was exciting! Dart's syntax feels familiar like C++ and Java syntax.
 
 **Link to Code:**
-[Day 1 Code]()
+[Day 1 Code](https://github.com/Kush-munot/Flutter_Projects/blob/master/Dart_Basics/Basic_Datatypes.dart)
 
 ## Resources
 
