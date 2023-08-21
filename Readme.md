@@ -25,7 +25,7 @@ Getting started was exciting! Dart's syntax feels familiar like C++ and Java syn
 **Link to Code:**
 [Day 1 Code](https://github.com/Kush-munot/Flutter_Projects/blob/master/Dart_Basics/Basic_Datatypes.dart)
 
-### Day 1: [21th August]
+### Day 2: [21th August]
 
 **Today's Progress:**
 - Started with Loops in Dart
