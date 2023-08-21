@@ -25,6 +25,21 @@ Getting started was exciting! Dart's syntax feels familiar like C++ and Java syn
 **Link to Code:**
 [Day 1 Code](https://github.com/Kush-munot/Flutter_Projects/blob/master/Dart_Basics/Basic_Datatypes.dart)
 
+### Day 1: [21th August]
+
+**Today's Progress:**
+- Started with Loops in Dart
+- Taking User Inputs in Dart
+- Started using List Data Structure in Dart
+- Learned to run Dart program in Terminal rather than Debug Console.
+- 
+
+**Thoughts:**
+Loops in Dart are similar to that of C++.
+
+**Link to Code:**
+[Day 2 Code]()
+
 ## Resources
 
 - [Flutter Documentation](https://flutter.dev/docs)
