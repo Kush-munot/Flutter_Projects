@@ -32,13 +32,11 @@ Getting started was exciting! Dart's syntax feels familiar like C++ and Java syn
 - Taking User Inputs in Dart
 - Started using List Data Structure in Dart
 - Learned to run Dart program in Terminal rather than Debug Console.
-- 
+- Solved two question of List but was struggling with dividion operator as we have int as data type and division gives double as output but then discovered this ~/ truncated division operator that worked 🥳🥳
 
 **Thoughts:**
-Loops in Dart are similar to that of C++.
+Consistency is important and will try to mantain the consistency 
 
-**Link to Code:**
-[Day 2 Code]()
 
 ## Resources
 
