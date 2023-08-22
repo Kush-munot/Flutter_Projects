@@ -37,6 +37,18 @@ Getting started was exciting! Dart's syntax feels familiar like C++ and Java syn
 **Thoughts:**
 Consistency is important and will try to mantain the consistency 
 
+### Day 3: [22th August]
+
+**Today's Progress:**
+- Got to know about ?? in Dart. It Called also null operator. This operator returns expression on its left, except if it is null, and if so, it returns right expression.
+- Started with HashMaps in Dart. 
+- Wrote Basic Array element frequency code. [PS - C++ is better in Dart all those null value errors and type checks make things horrible]
+- Solved 2 question on HashMaps [Twice_Counter and Word_With_Max_Freq]
+- Learnt Sorting of HashMaps on Value.
+
+**Thoughts:**
+Getting resources on Data Structures in Dart is damn difficult. But somehow articles and 
+
 
 ## Resources
 
@@ -44,6 +56,7 @@ Consistency is important and will try to mantain the consistency
 - [Dart Documentation](https://dart.dev/guides)
 - [Flutter Community](https://fluttercommunity.dev)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter)
+- [Article on What are ??, ??=, ?., …? in Dart](https://jelenaaa.medium.com/what-are-in-dart-df1f11706dd6)
 
 ## Contact
 
