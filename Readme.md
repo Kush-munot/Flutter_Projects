@@ -47,7 +47,17 @@ Consistency is important and will try to mantain the consistency
 - Learnt Sorting of HashMaps on Value.
 
 **Thoughts:**
-Getting resources on Data Structures in Dart is damn difficult. But somehow articles and 
+Getting resources on Data Structures in Dart is damn difficult. But somehow articles and blogs help me a lot 
+
+### Day 3: [24th August]
+
+**Today's Progress:**
+- Started learning Sets in Dart
+- Solved 2 Problems in Set - Common Sum and Distinct Difference
+- Made problems user input centric and tested for different testcases too.
+
+**Thoughts:**
+Today it was easy to find things and getting accquainted to the learning process.
 
 
 ## Resources
