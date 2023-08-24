@@ -49,7 +49,7 @@ Consistency is important and will try to mantain the consistency
 **Thoughts:**
 Getting resources on Data Structures in Dart is damn difficult. But somehow articles and blogs help me a lot 
 
-### Day 3: [24th August]
+### Day 4: [24th August]
 
 **Today's Progress:**
 - Started learning Sets in Dart
