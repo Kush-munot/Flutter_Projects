@@ -1,6 +1,5 @@
 //Given a list of N words. Count the number of words that appear exactly twice in the list.
 
-import 'dart:io';
 
 void main(){
   List<String> str = ['Geeks', 'For', 'Geeks','Kush', 'Munot','Kush', 'Munot'];

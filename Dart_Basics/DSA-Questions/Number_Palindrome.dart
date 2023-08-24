@@ -1,4 +1,3 @@
-import 'dart:io';
 
 int checkPal(int n) {
   int rev = 0;
