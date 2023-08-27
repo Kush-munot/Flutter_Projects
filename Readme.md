@@ -59,6 +59,14 @@ Getting resources on Data Structures in Dart is damn difficult. But somehow arti
 **Thoughts:**
 Today it was easy to find things and getting accquainted to the learning process.
 
+### Day 5: [27th August]
+
+**Today's Progress:**
+- 
+
+**Thoughts:**
+
+
 
 ## Resources
 
