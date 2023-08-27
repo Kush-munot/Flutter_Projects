@@ -62,10 +62,13 @@ Today it was easy to find things and getting accquainted to the learning process
 ### Day 5: [27th August]
 
 **Today's Progress:**
-- 
+- Learned about Classes and Object in Dart.
+- This helped me deign Node Class for LinkedList.
+- Created basic code for Insertion at Beginning and Insertion at End in Dart.
+- Solved 2 Questions Reverse LinkedList and Find Nth Node from End. 
 
 **Thoughts:**
-
+- To start of with LinkedList was a bit tough. Got to serach for proper source but then it became easier to code.
 
 
 ## Resources
