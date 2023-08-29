@@ -70,6 +70,28 @@ Today it was easy to find things and getting accquainted to the learning process
 
 **Thoughts:**
 - To start of with LinkedList was a bit tough. Got to serach for proper source but then it became easier to code.
+  
+### Day 6: [28th August]
+
+**Today's Progress:**
+- Learned about different Folders in a dart project and what happens in each of them.
+- Tried to play around with the main.dart file which is the starting point of the flutter app
+
+**Thoughts:**
+- It was nice to start with flutter and run the basic app on emulator.
+### Day 7: [29th August]
+
+**Today's Progress:**
+- main.dart is parsed from top to bottom when we run the project.
+- the parsed code is compiled to target platform code some native android code or IOS Code.
+- Tried to write the main.dart from scratch. 
+- runApp() is the funcetion that starts the app and its main function is to show some UI on the screen
+- We can Manage 3rd party dependencies in the pubspec.yaml files
+- For rendering UI on Flutter App we Use Widgets
+- Explored Flutter Widget Catalogue  and tried the basic text widget
+
+**Thoughts:**
+- Emulator is giving me some issue need to fix that rest all was pretty good !!
 
 
 ## Resources
