@@ -92,6 +92,17 @@ Today it was easy to find things and getting accquainted to the learning process
 
 **Thoughts:**
 - Emulator is giving me some issue need to fix that rest all was pretty good !!
+### Day 8: [31th August]
+
+**Today's Progress:**
+- Last App was just using Single Widget the Text() Widget.
+- Now i tried using Nested widgets like scaffold, Container, Box Decoration, Center etc for 
+- Tried Adding Gradients, Font Size, Font Weight 
+
+This is how the image looks
+![Day-01 of Flutter UI](./Images_For_Readme/D1.png)
+**Thoughts:**
+- Ui building is Fun but encounterd some errors too.
 
 
 ## Resources
