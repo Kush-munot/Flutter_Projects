@@ -100,9 +100,20 @@ Today it was easy to find things and getting accquainted to the learning process
 - Tried Adding Gradients, Font Size, Font Weight 
 
 This is how the image looks
-<img src="https://i.imgur.com/brzAdOZ.png">
+<img src="https://i.imgur.com/brzAdOZ.png" height="400px" width="250px"> </br>
 **Thoughts:**
 - Ui building is Fun but encounterd some errors too.
+### Day 9: [3rd September]
+
+**Today's Progress:**
+- Learnt to make Custom Widgets and use them into code. 
+- We can use these Widgets as reusable widgets.
+
+
+This is how the image looks
+<img src="https://i.imgur.com/brzAdOZ.png" height="400px" width="450px"> </br>
+**Thoughts:**
+- This is same as the React.js component reusing and quite similar too.
 
 
 ## Resources
