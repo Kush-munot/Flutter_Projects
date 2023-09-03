@@ -108,12 +108,11 @@ This is how the image looks
 **Today's Progress:**
 - Learnt to make Custom Widgets and use them into code. 
 - We can use these Widgets as reusable widgets.
+- Tried Making the Linktree Clone in UI aspect in Flutter
+- Used Widget Nesting, Learnt adding Network Images, Using Google Fonts, Custom Widgets, Scaffold, Column etc Widgets.
 
-
-This is how the image looks
-<img src="https://i.imgur.com/brzAdOZ.png" height="400px" width="450px"> </br>
 **Thoughts:**
-- This is same as the React.js component reusing and quite similar too.
+- This is same as the React.js component reusing and quite similar too. UI Building in Flutter is a bit Tough 
 
 
 ## Resources
@@ -123,6 +122,7 @@ This is how the image looks
 - [Flutter Community](https://fluttercommunity.dev)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter)
 - [Article on What are ??, ??=, ?., …? in Dart](https://jelenaaa.medium.com/what-are-in-dart-df1f11706dd6)
+- [Border to a Container](https://stackoverflow.com/questions/57777737/flutter-give-container-rounded-border)
 
 ## Contact
 
