@@ -100,7 +100,7 @@ Today it was easy to find things and getting accquainted to the learning process
 - Tried Adding Gradients, Font Size, Font Weight 
 
 This is how the image looks
-![Day-01 of Flutter UI](./Images_For_Readme/D1.png)
+<img src="https://i.imgur.com/brzAdOZ.png">
 **Thoughts:**
 - Ui building is Fun but encounterd some errors too.
 
