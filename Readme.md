@@ -114,6 +114,16 @@ This is how the image looks
 
 **Thoughts:**
 - This is same as the React.js component reusing and quite similar too. UI Building in Flutter is a bit Tough 
+### Day 9: [5th September]
+
+**Today's Progress:**
+- Learned to make Buttons and redirect them to a website. any External Links.
+- Tried Nesting widgets like InkWell, Containers, etc on child and children modes.
+- Made the UI a bit more good looking.
+
+**Thoughts:**
+- Flutter seems a bit difficult UI wise but still googling and finding stuff on internet helps me a lot.
+
 
 
 ## Resources

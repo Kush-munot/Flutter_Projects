@@ -1,17 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:url_launcher/url_launcher.dart';
-import "package:simple_icons/simple_icons.dart";
-
-void _launchPortfolioURL() async {
-  final Uri url = Uri.parse(
-      'https://kushmunot.netlify.app/'); // Replace with your external URL
-  if (await canLaunchUrl(url)) {
-    await launchUrl(url);
-  } else {
-    throw 'Could not launch $url';
-  }
-}
 
 void main() {
   runApp(
@@ -78,38 +67,11 @@ class ProfileImage extends StatelessWidget {
   }
 }
 
-// class GithubButton extends StatelessWidget {
-//   const GithubButton({super.key});
-//   @override
-//   Widget build(BuildContext context) {
-//     return IconButton(
-//       icon: const Icon(SimpleIcons.github),
-//       onPressed: _launchPortfolioURL,
-//       style: IconButton.styleFrom(
-//         backgroundColor: Colors.black, // Set the button's background color
-//       ),
-//       child: const Row(
-//         children: [
-
-//           SizedBox(width: 8.0),
-//           Text(
-//             'Explore my Github',
-//             style: TextStyle(
-//               color: Colors.white,
-//             ),
-//           ),
-//         ],
-//       ),
-//     );
-//   }
-// }
-
 class GithubButton extends StatelessWidget {
   const GithubButton({Key? key}) : super(key: key);
 
   void _launchGithubURL() async {
-    final Uri url = Uri.parse(
-        'https://github.com/Kush-munot'); // Replace with your external URL
+    final Uri url = Uri.parse('https://github.com/Kush-munot');
     if (await canLaunchUrl(url)) {
       await launchUrl(url);
     } else {
@@ -123,8 +85,8 @@ class GithubButton extends StatelessWidget {
       onTap: _launchGithubURL,
       child: Container(
         decoration: BoxDecoration(
-          color: Colors.black, // Set the button's background color
-          borderRadius: BorderRadius.circular(8.0), // Add some rounded corners
+          color: Colors.black,
+          borderRadius: BorderRadius.circular(8.0),
         ),
         padding: const EdgeInsets.all(10.0),
         child: const Row(
@@ -162,8 +124,8 @@ class PortfolioButton extends StatelessWidget {
       onTap: _launchPortfolioURL,
       child: Container(
         decoration: BoxDecoration(
-          color: Colors.redAccent, // Set the button's background color
-          borderRadius: BorderRadius.circular(8.0), // Add some rounded corners
+          color: Colors.redAccent,
+          borderRadius: BorderRadius.circular(8.0),
         ),
         padding: const EdgeInsets.all(10.0),
         child: const Row(
