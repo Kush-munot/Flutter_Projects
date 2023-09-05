@@ -103,6 +103,7 @@ This is how the image looks
 <img src="https://i.imgur.com/brzAdOZ.png" height="400px" width="250px"> </br>
 **Thoughts:**
 - Ui building is Fun but encounterd some errors too.
+
 ### Day 9: [3rd September]
 
 **Today's Progress:**
