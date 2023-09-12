@@ -126,9 +126,9 @@ This is how the image looks
 ### Day 10: [12th September]
 
 **Today's Progress:**
-- 
+- Splitting of Code into readable packages was implemented in both projects.
 **Thoughts:**
-- 
+- Got into some erros but perished to integrate all splitted components.
 
 
 
