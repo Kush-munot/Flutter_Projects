@@ -123,6 +123,12 @@ This is how the image looks
 
 **Thoughts:**
 - Flutter seems a bit difficult UI wise but still googling and finding stuff on internet helps me a lot.
+### Day 10: [12th September]
+
+**Today's Progress:**
+- 
+**Thoughts:**
+- 
 
 
 

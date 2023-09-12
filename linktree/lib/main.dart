@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:url_launcher/url_launcher.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:linktree/header_container.dart';
+import 'package:linktree/custom_button.dart';
 
 const githubUrl = 'https://github.com/Kush-munot';
 const portfolioUrl = 'https://kushmunot.netlify.app/';
@@ -84,104 +84,4 @@ void main() {
       ),
     ),
   );
-}
-
-class HeaderContainer extends StatelessWidget {
-  const HeaderContainer({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      width: double.infinity,
-      height: 270.0,
-      decoration: const BoxDecoration(
-        color: Colors.greenAccent,
-        borderRadius: BorderRadius.only(
-          bottomRight: Radius.circular(40.0),
-          bottomLeft: Radius.circular(40.0),
-        ),
-      ),
-      child: Column(
-        children: [
-          const ProfileImage(),
-          const SizedBox(height: 26.0), // Add spacing between image and text
-          Text(
-            'Kush Munot',
-            style: GoogleFonts.courgette(
-              textStyle: const TextStyle(
-                fontSize: 40.0, // Adjust the font size
-                color: Colors.black,
-              ),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-}
-
-class ProfileImage extends StatelessWidget {
-  const ProfileImage({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return const Padding(
-      padding: EdgeInsets.all(16.0), // Adjust the padding values as needed
-      child: Image(
-        image: NetworkImage('https://i.imgur.com/XEHioJH.png'),
-        height: 140,
-        width: 140,
-      ),
-    );
-  }
-}
-
-class CustomButton extends StatelessWidget {
-  final String link;
-  final String text;
-  final Color btnColor;
-  final FaIcon iconData; // Icon data for the icon
-  const CustomButton(this.link, this.text, this.btnColor, this.iconData,
-      {super.key});
-
-  void _launchGithubURL() async {
-    final Uri url = Uri.parse(link);
-    if (await canLaunchUrl(url)) {
-      await launchUrl(url);
-    } else {
-      throw 'Could not launch $url';
-    }
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    return InkWell(
-      onTap: _launchGithubURL,
-      child: Container(
-        decoration: BoxDecoration(
-          color: btnColor,
-          borderRadius: BorderRadius.circular(8.0),
-        ),
-        padding: const EdgeInsets.all(10.0),
-        width: 320,
-        alignment: Alignment.center,
-        child: Row(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            iconData,
-            const SizedBox(width: 8.0),
-            Text(
-              text,
-              style: GoogleFonts.montserrat(
-                textStyle: const TextStyle(
-                  color: Colors.white,
-                  fontSize: 18,
-                ),
-              ),
-            ),
-          ],
-        ),
-      ),
-    );
-  }
 }
