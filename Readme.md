@@ -129,6 +129,12 @@ This is how the image looks
 - Splitting of Code into readable packages was implemented in both projects.
 **Thoughts:**
 - Got into some erros but perished to integrate all splitted components.
+### Day 11: [13th September]
+
+**Today's Progress:**
+- Learned about making Custom Widgets and how to use them in code.
+- Learneabout a new Data Type the Dynamic Datatype. This is like it doesnot know abiut the datatype and evaluates it at run time
+- Learned about using class and its constructor to reuse compnents and make them more dynamic.
 
 
 
