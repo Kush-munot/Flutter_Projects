@@ -3,7 +3,7 @@ import 'package:first_demo_app/gradient_container.dart';
 
 void main() {
   runApp(
-    MaterialApp(
+    const MaterialApp(
       home: Scaffold(
         body: GradientContainer(),
       ),

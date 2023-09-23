@@ -135,6 +135,16 @@ This is how the image looks
 - Learned about making Custom Widgets and how to use them in code.
 - Learneabout a new Data Type the Dynamic Datatype. This is like it doesnot know abiut the datatype and evaluates it at run time
 - Learned about using class and its constructor to reuse compnents and make them more dynamic.
+### Day 12: [23th September]
+
+**Today's Progress:**
+- Learned About Buttons, Column widgets
+- Anonymous functions for the onPressed feature of Button.
+- Types of Buttons - TextButton, OutlinedButton and ElevatedButtons
+- Learned about MainAxix.min for the Column Widget Sizing
+- .StyleFrom() helps you to override the default styles
+- Introduction to Stateful Widget and how to use them.
+- Learnt about SetSate()
 
 
 
