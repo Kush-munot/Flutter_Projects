@@ -145,6 +145,11 @@ This is how the image looks
 - .StyleFrom() helps you to override the default styles
 - Introduction to Stateful Widget and how to use them.
 - Learnt about SetSate()
+### Day 13: [25th September]
+
+**Today's Progress:**
+- Learnt Using the randon() function and completed the Roller Application.
+
 
 
 
