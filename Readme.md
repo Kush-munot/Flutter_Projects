@@ -148,8 +148,16 @@ This is how the image looks
 ### Day 13: [25th September]
 
 **Today's Progress:**
-- Learnt Using the randon() function and completed the Roller Application.
+- Learnt Using the random() function and completed the Roller Application.
+### Day 14: [26th September]
 
+**Today's Progress:**
+- Completed Dice Roller Application and added animation to it.
+### Day 15: [27th September]
+
+**Today's Progress:**
+- Started with the Quiz App as instructed in the course. 
+- Created the very First Screen by myself.
 
 
 
