@@ -37,14 +37,15 @@ class _DiceRollerState extends State<DiceRoller> {
         ),
         const SizedBox(height: 30),
         ElevatedButton(
-            onPressed: rollDice,
-            style: TextButton.styleFrom(
-                backgroundColor: Colors.black38,
-                padding: const EdgeInsets.fromLTRB(10, 20, 10, 20)),
-            child: const Text(
-              "Lets Roll Dice !!",
-              style: TextStyle(fontSize: 20),
-            ))
+          onPressed: rollDice,
+          style: TextButton.styleFrom(
+              backgroundColor: Colors.black38,
+              padding: const EdgeInsets.fromLTRB(10, 20, 10, 20)),
+          child: const Text(
+            "Lets Roll Dice !!",
+            style: TextStyle(fontSize: 20),
+          ),
+        ),
       ],
     );
   }
