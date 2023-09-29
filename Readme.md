@@ -158,7 +158,16 @@ This is how the image looks
 **Today's Progress:**
 - Started with the Quiz App as instructed in the course. 
 - Created the very First Screen by myself.
+### Day 16: [28th September]
 
+**Today's Progress:**
+- Completed the First Screen and learnt abot adding Opacity to images, Overlay colors to an image 
+- 
+### Day 17: [29th September]
+
+**Today's Progress:**
+- Deepdived into conditional rendering of components. State and its rendering 
+- Learned about State Uplifting anf moving from one screen to another.
 
 
 ## Resources
