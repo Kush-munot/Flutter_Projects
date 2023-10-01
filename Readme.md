@@ -168,6 +168,12 @@ This is how the image looks
 **Today's Progress:**
 - Deepdived into conditional rendering of components. State and its rendering 
 - Learned about State Uplifting anf moving from one screen to another.
+### Day 17: [1st October]
+
+**Today's Progress:**
+- Learned about Ternary Operator and how we use it to conditionally render content.
+- Render content render conditionally using if-statement
+- Progressed with further screens in Quiz App
 
 
 ## Resources
