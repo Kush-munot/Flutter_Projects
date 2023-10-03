@@ -181,6 +181,22 @@ This is how the image looks
 - applied the Constructor methods for reusing components and passing values to them
 
 
+## Stateful Widget Lifecycle
+- **Create State Method**: When a Stateful Widget is created, the createState method is called, which creates an associated State object.
+
+- **Init State Method**: After the State object is created, the initState method is called. This method is used for initializing the widget before it is built. It's called every time a state is created.
+
+- **Build Method**: The build method is responsible for creating the UI of the widget. It returns a widget tree that defines how the widget should look. This method is called whenever the widget needs to be rebuilt, such as when the state changes.
+
+- **Dispose Method**: The dispose method is called when the widget is removed from the widget tree or when it's no longer needed. Developers can use this method to clean up resources and perform necessary cleanup tasks.
+
+- **Set State Method**: The setState method is a critical part of the Flutter Stateful Widget. When called, it informs Flutter that the widget's internal state has changed, and it should be rebuilt. This is how developers update the UI in response to user interactions or data changes.
+
+- **Did Update Widget Method**: The didUpdateWidget method is called when a widget's parent rebuilds and supplies a new configuration. Developers can use this method to respond to changes in the widget's properties.
+
+- **Did Change Dependencies Method and Deactivate Method**: These methods are rarely used in Flutter and are typically only utilized by the Flutter SDK or certain plugins.
+
+
 ## Resources
 
 - [Flutter Documentation](https://flutter.dev/docs)
