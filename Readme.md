@@ -179,6 +179,11 @@ This is how the image looks
 **Today's Progress:**
 - Moved on wih the Quiz app and created reusable components like Options menu, Question Screen 
 - applied the Constructor methods for reusing components and passing values to them
+### Day 20: [3rd October]
+
+**Today's Progress:**
+- Studied State Lifecycle
+- Got to know about Mapping  and spread operator in Flutter
 
 
 ## Stateful Widget Lifecycle
