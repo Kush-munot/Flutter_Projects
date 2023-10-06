@@ -183,7 +183,12 @@ This is how the image looks
 
 **Today's Progress:**
 - Studied State Lifecycle
-- Got to know about Mapping  and spread operator in Flutter
+- Got to know about Mapping  and spread operator in Flutter.
+- Used map() to render answerButton Dynamically
+### Day 21: [6th October]
+
+**Today's Progress:**
+- 
 
 
 ## Stateful Widget Lifecycle

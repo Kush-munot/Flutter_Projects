@@ -18,23 +18,23 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
   Widget build(context) {
     return SizedBox(
       width: double.infinity,
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Text(
-            currQuestion.text,
-            style: const TextStyle(color: Colors.white, fontSize: 20),
-          ),
-          const SizedBox(height: 30),
-          ...currQuestion.answers.map((item) {
-            return (Column(
-              children: [
-                AnswerButton(ansText: item, onTap: () {}),
-                const SizedBox(height: 20),
-              ],
-            ));
-          }),
-        ],
+      child: Container(
+        margin: const EdgeInsets.all(20),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.stretch,
+          children: [
+            Text(
+              currQuestion.text,
+              textAlign: TextAlign.center,
+              style: const TextStyle(color: Colors.white, fontSize: 20),
+            ),
+            const SizedBox(height: 30),
+            ...currQuestion.getShuffledAnswers().map((item) {
+              return AnswerButton(ansText: item, onTap: () {});
+            }),
+          ],
+        ),
       ),
     );
   }
