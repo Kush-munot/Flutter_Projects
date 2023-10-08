@@ -188,6 +188,14 @@ This is how the image looks
 ### Day 21: [6th October]
 
 **Today's Progress:**
+- Moved along with the course and learned about shuffling a list and preserve the order so that we can identify correct answers.
+- 
+### Day 22: [8th October]
+- Improved the styling of the overall aplication and worked on State uplifting of the Answers Component
+- Applied External Google Fonts in the application
+- Added the next question feature when any answer is chosen
+
+**Today's Progress:**
 - 
 
 
