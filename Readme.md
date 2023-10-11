@@ -191,12 +191,18 @@ This is how the image looks
 - Moved along with the course and learned about shuffling a list and preserve the order so that we can identify correct answers.
 - 
 ### Day 22: [8th October]
+
+**Today's Progress:**
 - Improved the styling of the overall aplication and worked on State uplifting of the Answers Component
 - Applied External Google Fonts in the application
 - Added the next question feature when any answer is chosen
 
+### Day 23 [11th October]
+
 **Today's Progress:**
-- 
+- Completed the selection of answer logic where we are passing functions from onw widget to another just as we do with props in react.
+- Designed the basic Result Screen and will be working on the Summary of the result screen.
+- Used States widely within the project.
 
 
 ## Stateful Widget Lifecycle
